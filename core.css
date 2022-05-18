@@ -43,3 +43,9 @@ footer{
   bottom: 0;
   width: 100%;
 }
+
+
+a.class1link:link { text-decoration: none; }
+a.class1link:visited { text-decoration: none; }
+a.class1link:hover { text-decoration: none; }
+a.class1link:active { text-decoration: none; }
