@@ -17,3 +17,10 @@ h2{
 header{
   background-color: #7d7d7d;
 }
+
+body {
+  background-image: url('images/nature-background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
