@@ -36,7 +36,6 @@ header{
 footer{
   background-color: #7d7d7d;
   text-align: center;
-  color: white;
   /*position: fixed;*/
   padding: 10px 0px 10px 0px;
   bottom: 0;
@@ -55,4 +54,8 @@ table,tr{
 
 td{
   padding-left: 15px;
+}
+
+b.footer1{
+  color: #3b3c3d;
 }
