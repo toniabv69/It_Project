@@ -44,10 +44,10 @@ footer{
 }
 
 
-a.class1link:link { text-decoration: none; }
-a.class1link:visited { text-decoration: none; }
-a.class1link:hover { text-decoration: none; }
-a.class1link:active { text-decoration: none; }
+a.class1link:link { text-decoration: none; color: white; font-family: courier;}
+a.class1link:visited { text-decoration: none; color: white; font-family: courier;}
+a.class1link:hover { text-decoration: none; color: white; font-family: courier;}
+a.class1link:active { text-decoration: none; color: white; font-family: courier;}
 
 table,tr{
   border: 15px;
