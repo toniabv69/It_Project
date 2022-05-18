@@ -49,6 +49,10 @@ a.class1link:visited { text-decoration: none; }
 a.class1link:hover { text-decoration: none; }
 a.class1link:active { text-decoration: none; }
 
-table,tr,td{
-  border: 5px;
+table,tr{
+  border: 15px;
+}
+
+td{
+  padding-left: 15px;
 }
